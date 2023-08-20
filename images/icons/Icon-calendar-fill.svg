@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.8" height="12" viewBox="0 0 10.8 12">
+  <g id="Icon_calendar_fill" data-name="Icon/calendar/fill" transform="translate(0 0)">
+    <g id="icon_form_calemder" data-name="icon/form//calemder">
+      <g id="bxs-calendar">
+        <path id="Shape" d="M6,3.6H4.8V2.4H6V3.6Zm-2.4,0H2.4V2.4H3.6V3.6Zm-2.4,0H0V2.4H1.2V3.6ZM6,1.2H4.8V0H6V1.2Zm-2.4,0H2.4V0H3.6V1.2Zm-2.4,0H0V0H1.2V1.2Z" transform="translate(2.4 6)" fill="none"/>
+        <path id="Shape-2" data-name="Shape" d="M10.2,12H.6a.6.6,0,0,1-.6-.6V4.206H10.8V11.4A.6.6,0,0,1,10.2,12Zm-3-3.6V9.6H8.4V8.4Zm-2.4,0V9.6H6V8.4Zm-2.4,0V9.6H3.6V8.4ZM7.2,6V7.2H8.4V6ZM4.8,6V7.2H6V6ZM2.4,6V7.2H3.6V6Zm8.4-2.994H0V1.8a.6.6,0,0,1,.6-.6H2.4V0H3.6V1.2H7.2V0H8.4V1.2h1.8a.6.6,0,0,1,.6.6V3.005Z" fill="#c2c6d2"/>
+      </g>
+    </g>
+  </g>
+</svg>
